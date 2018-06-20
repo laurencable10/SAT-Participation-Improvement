@@ -32,5 +32,3 @@ These data give average SAT and ACT scores by state, as well as participation ra
 1. Loading data and performing basic operations
 2. Exploratory Data Analysis
 3. Conclusions
-4. Clear, Data-Driven Recommendations
-5. Further Thoughts 
