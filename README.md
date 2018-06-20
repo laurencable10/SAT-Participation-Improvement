@@ -1,5 +1,4 @@
-# SAT-Participation-Improvement
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Standardized Testing, Statistical Summaries and Inference
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SAT Participation Improvement
 
 ## Scenario 
 
@@ -18,12 +17,10 @@ _How might the College Board work to increase participation rates of their exams
 
 ### Dataset
 
-This project uses two datasets:
+This project uses two datasets.
 
-- [Dataset: SAT Scores](./data/sat.csv)
-- [Dataset: ACT Scores](./data/act.csv)
-
-You can see the source for the SAT data [here](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent), and the source for the ACT data [here](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows).
+- See the source for the SAT data [here](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent).
+- See the source for the ACT data [here](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows).
 
 These data give average SAT and ACT scores by state, as well as participation rates, for the graduating class of 2017.
 
